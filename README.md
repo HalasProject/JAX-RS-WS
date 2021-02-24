@@ -23,9 +23,9 @@ The Project comes with two parent folders:
 
 Before starting this projec, please prepare your development environment by installing the following tools:
 
-* [Java via OpenJDK] (https://jdk.java.net/ "Java 8 to 11");
-* [Maven] (https://maven.apache.org/ "Maven");
-* [Eclipse] (https://www.eclipse.org/ "Eclipse");
-* [cURL] (https://curl.haxx.se "cURL");
-* [NodeJS] (https://nodejs.org/en/ "NodeJS"). 
-* [Vite] (https://vitejs.dev/guide/ "Vite").
+* [Java via OpenJDK](https://jdk.java.net/ "Java 8 to 11");
+* [Maven](https://maven.apache.org/ "Maven");
+* [Eclipse](https://www.eclipse.org/ "Eclipse");
+* [cURL](https://curl.haxx.se "cURL");
+* [NodeJS](https://nodejs.org/en/ "NodeJS"); 
+* [Vite](https://vitejs.dev/guide/ "Vite");
